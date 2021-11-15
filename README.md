@@ -18,7 +18,7 @@ Experienced Senior Technical Writer with proven experience in the mainframe indu
 * RoboHelp
 * Knowledge of DITA, XML, HTML, and CSS
 * Knowledge of GitHub, Markdown, and ASCiiDoc
-* MS Office Tools 
+* Microsoft Office Tools 
 * Agile methodology
 
 ## Responsibilities
