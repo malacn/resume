@@ -10,9 +10,11 @@ Experienced Senior Technical Writer with proven experience in the mainframe indu
 
 ## Skills
 
-* Component content management system (CCMS)
-* Adobe Experience Manager Confluence
-* Camtasia for videos and GIFs Adobe Captivate
+* Component content management system
+* Adobe Experience Manager 
+* Confluence
+* Camtasia
+* Adobe Captivate
 * RoboHelp
 * Knowledge of DITA, XML, HTML, and CSS
 * Knowledge of GitHub, Markdown, and ASCiiDoc
