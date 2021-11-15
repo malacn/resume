@@ -28,7 +28,7 @@ Experienced Senior Technical Writer with proven experience in the mainframe indu
 * Document in the Scaled Agile Framework both in the Scrum and Kanban methodologies
 * Continuously improve content to implement company's new documentation strategy
 * Improve content SEO based on Google Analytics
-* Enhance content based on internal stakeholders and external customers.
+* Enhance content based on internal stakeholders and customers' feedback.
 * Refactor, restructure, and redesign legacy documents to keep the topics current
 * Maintain different versions and publish in different formats using single-source publishing.
 * Create instructional and release videos
